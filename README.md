@@ -1,0 +1,1 @@
+https://mick-whats.github.io/hexo-1.0.4-labo/
