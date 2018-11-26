@@ -5,11 +5,11 @@
 # Site
 title: mick-labo
 subtitle:
-description:
+description: nodejs,javascript
 keywords:
 author: mick-whats
-language:
-timezone:
+language: en
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -29,7 +29,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year/:month/:title.md
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -40,9 +40,9 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
   auto_detect: false
-  tab_replace:
+  tab_replace: false
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
