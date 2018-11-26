@@ -4,7 +4,8 @@ date: 2018-11-26 23:11:04
 tags: hexo
 ---
 
-[hexoのThemeに使うリポジトリをcloneしてきたらデプロイ失敗する問題]という記事を書きましたがその後問題が発生しました。
+[hexoのThemeに使うリポジトリをcloneしてきたらデプロイ失敗する問題](https://mick-labo.netlify.com/2018/11/26/hexo-theme-clone/)
+という記事を書きましたがその後問題が発生しました。
 
 themeの設定をするために、themesディレクトリ内の_config.ymlを修正して気が付きました。
 
