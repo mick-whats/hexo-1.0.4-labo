@@ -1,7 +1,7 @@
 ---
 title: jestは並列だけど直列で行われる
 date: 2018-11-26 21:31:00
-tags: jest test
+tags: jest
 ---
 
 # jestは並列だけど直列で行われる
