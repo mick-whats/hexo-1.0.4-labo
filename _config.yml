@@ -82,3 +82,6 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+social_links:
+  github: https://github.com/mick-whats
+  twitter: https://twitter.com/mick_x_
