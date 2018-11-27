@@ -4,9 +4,9 @@ menu:
   Archives: /archives
   About: /about
 rss: /atom.xml
-github: https://github.com/myname
+github: https://github.com/mick-whats
 logo_title: MyLogo
-blog_title: My Blog
+blog_title: mick-labo
 
 # Content
 excerpt_link: Read More
@@ -16,15 +16,17 @@ mathjax: false
 # Sidebar
 sidebar: right
 widgets:
-- recent_posts
-- tag
-- archive
+  - recent_posts
+  - tag
+  - archive
 
 # Miscellaneous
 wx_block: false
 google_analytics:
+  enabled: true
+  id: UA-129785600-1
 favicon:
-twitter:
+twitter: https://twitter.com/mick_x_
 google_plus:
 fb_admins:
 fb_app_id:
