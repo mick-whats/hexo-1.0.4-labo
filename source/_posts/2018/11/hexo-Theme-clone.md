@@ -2,6 +2,9 @@
 title: hexoのThemeに使うリポジトリをcloneしてきたらデプロイ失敗する問題
 date: 2018-11-26 13:53:04
 tags:
+  - [hexo]
+  - [theme]
+  - [deploy]
 ---
 
 この記事は参考程度に残していますが解決策は[こちら](https://mick-labo.netlify.com/2018/11/26/hexo-theme-clone2/)
