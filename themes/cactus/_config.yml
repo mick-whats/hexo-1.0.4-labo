@@ -32,15 +32,15 @@ social_links:
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
-tags_overview: false
+tags_overview: true
 
 # Customize the overview with the most recent blog posts on the index page.
 # Options:
 #   - show_all_posts: whether to show all available posts.
 #   - post_count: whether to show only the x most recent posts.
 posts_overview:
-  show_all_posts: false
-  post_count: 5
+  show_all_posts: true
+  # post_count: 5
 
 ##############################################################################
 # Look and Feel
@@ -97,7 +97,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss: true
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
