@@ -34,7 +34,7 @@ google_analytics: UA-129785600-1
 addthis: ra-5c2deb2e9b7840c4
 
 # set your own favicon
-favicon: img/favicon.ico
+favicon: /img/favicon.ico
 
 # Social Accounts
 twitter_url: https://twitter.com/mick_x_
