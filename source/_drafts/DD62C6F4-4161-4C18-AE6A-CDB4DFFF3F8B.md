@@ -126,6 +126,23 @@ yarn.lock
 
 ### その３
 
+`.npmignore`を修正。
+
+
+```sh
+coverage
+memo
+appveyor.yml
+yarn.lock
+.*
+__tests__
+```
+
+`__tests__`をアスタリスクなしにしてみました。
+
+その結果、`__tests__`はディレクトリごと消えました。
+
+## まとめ
 
 
 
